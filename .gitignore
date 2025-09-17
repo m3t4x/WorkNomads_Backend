@@ -1,0 +1,6 @@
+# Ignore Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
